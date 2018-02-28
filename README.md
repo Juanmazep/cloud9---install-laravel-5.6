@@ -4,6 +4,7 @@
 
 ### It also installs phpMyAdmin, without Mysql upgrade
 
+### Steps
 
 Get the install-laravel.sh
 ```sh
