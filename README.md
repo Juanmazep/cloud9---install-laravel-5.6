@@ -1,4 +1,4 @@
-# cloud9---install-laravel-5.6
+# cloud9-install-laravel-5.6
 
 ## Based from https://github.com/pkeogan/cloud9-install-laravel-5.5                     
 
