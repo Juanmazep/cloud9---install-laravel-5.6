@@ -2,7 +2,7 @@
 
 ## Based on https://github.com/pkeogan/cloud9-install-laravel-5.5                     
 
-### It also installs phpMyAdmin, without Mysql upgrade
+### It also installs phpMyAdmin, without Mysql upgrade. Username = your cloud9 username, password is empty
 
 ### Steps
 
