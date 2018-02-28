@@ -27,4 +27,4 @@ sudo sed -i 's/DocumentRoot\ \/home\/ubuntu\/workspace/DocumentRoot\ \/home\/ubu
 sudo service apache2 restart
 
 # Install PHPMyAdmin
-$ phpmyadmin-ctl install
+phpmyadmin-ctl install
