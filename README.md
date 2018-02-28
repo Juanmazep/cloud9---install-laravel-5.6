@@ -17,5 +17,5 @@ wget "https://raw.githubusercontent.com/karlkras/cloud9-install-laravel-5.5/mast
 Run the install
 
 ```sh
-bash install-nodejs.npm.sh
+bash install-nodejs-npm.sh
 ```
