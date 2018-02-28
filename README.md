@@ -2,7 +2,7 @@
 
 ## Based from https://github.com/pkeogan/cloud9-install-laravel-5.5
 
-## Also install phpMyAdmin, without Mysql upgrade
+# Also install phpMyAdmin, without Mysql upgrade
 
 Get the install-laravel.sh
 ```sh
